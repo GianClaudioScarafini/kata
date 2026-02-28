@@ -22,6 +22,7 @@ For each kata I also document:
 | # | Kata | Difficulty | Topic | Date | Link |
 |---|------|-----------|-------|------|------|
 | 1 | FizzBuzz | 6 kyu | Modulo, Control Flow, Array Map | Feb 2026 | [link](https://www.codewars.com/kata/5355a811a93a501adf000ab7/train/javascript) |
+| 2 | Tidy up the room | 6 kyu | Modulo, Control Flow, Array Map | Feb 2026 | [link](https://www.codewars.com/kata/5703ace6e55d30d3e0001029) |
 
 
 🛠️ Tech
